@@ -1,0 +1,14 @@
+vert<-c(1,2,3)
+var<-c("a","b","c")
+vat<-c(TRUE,FALSE,TRUE)
+class(var)
+class(vat)
+prad1<-c(1,TRUE,2,FALSE,4)
+prad2<-c(1,"a",2,"b",2,"c")
+class(prad1)
+class(prad2)
+b=3
+c=2
+a<-c(b+c)
+a<-c(b-c)
+a<-c(b*c)
